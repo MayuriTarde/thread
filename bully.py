@@ -31,3 +31,8 @@ for node_id in alive:
 print("new leader is node",leader)
 
 
+
+
+
+
+    
